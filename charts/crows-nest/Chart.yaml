@@ -1,0 +1,8 @@
+apiVersion: v1
+appVersion: "1.0"
+description: A Helm chart for Crows-Nest
+name: crows-nest
+version: 0.1.0
+keywords:
+- crows-nest
+home: https://github.com/michael-beaver/crows-nest
